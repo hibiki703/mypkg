@@ -12,14 +12,14 @@ git clone https://github.com/hibiki703/mypkg.git
 
 ## 使用方法
 ### 端末を2つでおこなう方法
-#### ①
+#### ①talker
 準備が済んだら以下のコマンドをターミナル上で実行する。
 ```
 ros2 run mypkg talker
 ```
 ※実行後なにも表示されないので、そのままにしておく。
 
-#### ②
+#### ②listener
 ①を実行後、別端末を用意し、そこで以下のコマンドをターミナル上で実行する。
 ```
 ros2 run mypkg listener
