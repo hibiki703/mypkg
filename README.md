@@ -36,8 +36,8 @@ ros2 launch mypkg talk_lasten.launch.py
 
 
 ## 必要なソフトウェア
-* Python
-* ROS2
+* Python 3.8.10
+* ROS2 foxy
 
 ## テスト環境
 * Ubuntu 20.04
