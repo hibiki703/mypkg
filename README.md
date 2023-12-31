@@ -33,12 +33,12 @@ ros2 launch mypkg talk_lasten.launch.py
 
 
 ##　必要なソフトウェア
-*Python 3.8.10
-*ROS 2 foxy
+* Python 3.8.10
+* ROS 2 foxy
 
 ## テスト環境
 *Ubuntu 20.04
 
 ## 著作権/ライセンス
-*このソフトウェアパッケージは、3条項BSDライセンスの下、再配布および使用が許可されます。
-*©2023 Hibiki Iida
+* このソフトウェアパッケージは、3条項BSDライセンスの下、再配布および使用が許可されます。
+* ©2023 Hibiki Iida
