@@ -1,5 +1,5 @@
 #!/bin/bash
-# SPDX-FileCopyrightText: 2023 hibiki703
+# SPDX-FileCopyrightText: 2023 Hibiki Iida
 # SPDX-License-Identifier: BSD-3-Clause
 
 

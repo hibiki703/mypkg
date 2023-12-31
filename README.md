@@ -1,6 +1,7 @@
 # mypkg
 ![test](https://github.com/hibiki703/mypkg/actions/workflows/test.yml/badge.svg)
 
+## 概要
 このパッケージは、talkerが0.5秒刻みで0から順にカウントした整数をlistenerが受け取り表示させるものである。
 
 ## 準備
