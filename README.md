@@ -41,6 +41,7 @@ ros2 launch mypkg talk_lasten.launch.py
 
 ## テスト環境
 * Ubuntu 20.04.4 LTS
+* Ubuntu 22.04
 
 ## 権利関係
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再配布および使用が許可されます。
