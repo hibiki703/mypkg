@@ -40,7 +40,7 @@ ros2 launch mypkg talk_lasten.launch.py
 * ROS2 foxy
 
 ## テスト環境
-* Ubuntu 20.04.2 LTS
+* Ubuntu 20.04.4 LTS
 * Ubuntu 22.04
 
 ## 権利関係
