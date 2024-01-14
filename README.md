@@ -13,14 +13,14 @@ git clone https://github.com/hibiki703/mypkg.git
 ## 使用方法
 ### 端末を2つでおこなう方法
 #### ①talker
-準備が済んだら以下のコマンドをターミナル上で実行する。
+準備が済んだら以下のコマンドを実行する。
 ```
 ros2 run mypkg talker
 ```
 ※実行後なにも表示されないので、そのままにしておく。
 
 #### ②listener
-①を実行後、別端末を用意し、そこで以下のコマンドをターミナル上で実行する。
+①を実行後、別端末を用意し、そこで以下のコマンドを実行する。
 ```
 ros2 run mypkg listener
 ```
@@ -28,7 +28,7 @@ ros2 run mypkg listener
 
 
 ### 端末1つでおこなう方法
-準備が済んだら以下のコマンドをターミナル上で実行する。
+準備が済んだら以下のコマンドを実行する。
 ```
 ros2 launch mypkg talk_lasten.launch.py
 ```
@@ -40,7 +40,8 @@ ros2 launch mypkg talk_lasten.launch.py
 * ROS2 foxy
 
 ## テスト環境
-* Ubuntu 20.04
+* Ubuntu 20.04.2 LTS
+* Ubuntu 22.04
 
 ## 権利関係
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再配布および使用が許可されます。
